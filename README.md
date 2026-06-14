@@ -29,6 +29,6 @@ Catálogo público de módulos disponíveis no marketplace do Arcvex.
 
 ## Como publicar um módulo
 
-1. Crie um repositório seguindo o [SDK.md](../core/docs/SDK.md)
+1. Crie um repositório seguindo o [SDK.md](https://github.com/arcvex-space/arcvex-core/blob/main/docs/SDK.md)
 2. Publique um GitHub Release com o zip do módulo
 3. Abra um Pull Request adicionando sua entrada em `registry.json`
