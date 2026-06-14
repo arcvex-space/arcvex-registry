@@ -1,5 +1,29 @@
 {
   "version": "1",
   "updatedAt": "2026-06-13",
-  "modules": []
+  "modules": [
+    {
+      "id": "crm",
+      "name": "CRM",
+      "version": "0.1.0",
+      "author": "arcvex-space",
+      "description": "Gestão de contatos e negociações comerciais",
+      "icon": "🤝",
+      "category": "crm",
+      "tags": ["crm", "contatos", "negociações", "vendas"],
+      "homepage": "https://github.com/arcvex-space/module-crm",
+      "license": "MIT",
+      "minCoreVersion": "0.3.0",
+      "dependencies": [],
+      "permissions": [
+        "crm:contacts:read",
+        "crm:contacts:write",
+        "crm:contacts:delete",
+        "crm:deals:read",
+        "crm:deals:write",
+        "crm:deals:delete"
+      ],
+      "download_url": "https://github.com/arcvex-space/module-crm/releases/download/v0.1.0/module-crm-v0.1.0.zip"
+    }
+  ]
 }
