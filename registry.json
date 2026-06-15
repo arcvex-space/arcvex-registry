@@ -1,5 +1,27 @@
 {
   "version": "1",
-  "updatedAt": "2026-06-13",
-  "modules": []
+  "updatedAt": "2026-06-15",
+  "modules": [
+    {
+      "id": "dias-embarcado",
+      "name": "Dias Embarcado",
+      "version": "0.1.0",
+      "author": "brodrigues0ll",
+      "description": "*",
+      "icon": "",
+      "category": "produtividade",
+      "tags": [
+        "dias-embarcado"
+      ],
+      "minCoreVersion": "0.3.0",
+      "dependencies": [],
+      "permissions": [
+        "dias-embarcado:items:read",
+        "dias-embarcado:items:write",
+        "dias-embarcado:items:delete"
+      ],
+      "download_url": "https://github.com/brodrigues0ll/module-dias-embarcado/releases/download/v0.1.0/module-dias-embarcado-v0.1.0.zip",
+      "homepage": "https://github.com/brodrigues0ll/module-dias-embarcado"
+    }
+  ]
 }
